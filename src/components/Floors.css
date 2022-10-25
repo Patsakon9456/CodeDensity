@@ -1,0 +1,9 @@
+.B-floors{
+    text-align: center;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(12, 237, 237);
+
+}
