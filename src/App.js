@@ -7,7 +7,7 @@ import R from './components/R';
 const colorseats = [
   {
     text: "Room",
-    k: 6
+    k: 7
 
   },
   {
@@ -16,7 +16,7 @@ const colorseats = [
   },
   {
     text: "Room",
-    k: 5
+    k: 9
   }
 
 ];
